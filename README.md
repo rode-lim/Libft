@@ -7,11 +7,26 @@ This is my own library for projects at 42 school
 
 The goal of the "libft" project is to help students gain a deeper understanding of fundamental C programming concepts and the standard library functions by implementing their own versions of these functions. This project usually involves functions for tasks like string manipulation, memory allocation, and other common operations found in C programming.
 
-### To complete this project you must finish all mandatory functions
+# libft - Your C Standard Library
 
-By reading my project you will have an idea of the final product.
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-If you wish for a tutorial you can reach me through email on my main page or personally.
+## Introduction
 
+`libft` is a C library that contains a collection of custom-made functions, replicating some of the standard C library functions as well as additional utility functions. This library is designed to serve as a fundamental building block for C programming projects, providing commonly used functions to simplify and streamline development.
+
+### Features
+
+- String manipulation functions
+- Memory allocation and manipulation functions
+- Character and string testing functions
+- Linked list handling functions
+- File manipulation functions
+- Mathematical functions
+- And more...
 
 #### Good luck making your functions <3
+
+
+#### Contact
+If you have any questions or suggestions, feel free to contact us at rode-lim@student.42lisboa.com.
