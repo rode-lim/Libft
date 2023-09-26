@@ -27,4 +27,4 @@ The goal of the "libft" project is to help students gain a deeper understanding 
 PS: I recommend learning how to use the extension map marker for VSCode it helped me organize myself.
 
 #### Contact
-If you have any questions or suggestions, feel free to contact us at rode-lim@student.42lisboa.com.
+If you have any questions or suggestions, feel free to contact me at rode-lim@student.42lisboa.com.
