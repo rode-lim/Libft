@@ -9,8 +9,6 @@ The goal of the "libft" project is to help students gain a deeper understanding 
 
 # libft - Your C Standard Library
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 ## Introduction
 
 `libft` is a C library that contains a collection of custom-made functions, replicating some of the standard C library functions as well as additional utility functions. This library is designed to serve as a fundamental building block for C programming projects, providing commonly used functions to simplify and streamline development.
